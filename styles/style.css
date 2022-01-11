@@ -291,6 +291,7 @@ line-height: 34px;
   background: #1f1f1f;
   padding-top: 60px;
   padding-bottom: 40px;
+  display: flex;
 }
 
 .footer__columns {
@@ -352,7 +353,6 @@ line-height: 34px;
   margin-bottom: 0;
   margin-top: 0;
   color: white;
-  display: flex;
 }
 
 .footer__social-icon {
