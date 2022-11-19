@@ -1,6 +1,6 @@
 # **Проект: How to learn**
 
-### [Ссылка на проекта в GitHub Pages](https://svtlife.github.io/how-to-learn/)
+### [Ссылка на проект в GitHub Pages](https://svtlife.github.io/how-to-learn/)
 
 ---
 
